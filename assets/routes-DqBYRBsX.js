@@ -1,0 +1,1 @@
+import{t as e}from"./index-Cl3oxJxb.js";var t=e();function n(){return(0,t.jsx)(`main`,{className:`flex min-h-screen items-center justify-center`,children:(0,t.jsx)(`h1`,{className:`text-2xl font-semibold`,children:`Gabriella Correa`})})}export{n as component};
